@@ -1,0 +1,36 @@
+.comment .comment-content{
+	border:1px solid #065492;
+	background:#03152F;
+	padding:3px 5px;
+}
+.comment .comment-top{
+	padding:5px;
+	background:#000d1e url(../img/comment-bg.jpg) no-repeat center top;
+	border:1px solid #065492;
+	border-bottom:0px;
+}
+.comment .comment-username a{
+	font-weight:bold;	
+	color:#f5f5f5;
+}
+.comment .comment-date{
+	font-size:10px;
+	color:#bbb;
+	font-family: Verdana, Arial, sans-serif;	
+}
+.comment .comment-controls{
+	float:right;	
+}
+.comment .comment-controls a{
+	margin-left:10px;	
+}
+.comment .comment{
+	padding-left:25px;
+	background:url(../img/reply-list.png) no-repeat 3px 10px;
+}
+.comment .comment-id{
+	display:none;
+}
+.comment .avatar-frame{
+	float:left;
+}
